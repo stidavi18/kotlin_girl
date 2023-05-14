@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kotlin</string>
+
+    <string name="btn_uno">Comenzar!</string>
+    <string name="btnno">No,no nooo</string>
+    <string name="btnsi">Si, claro vamos hacer la noviacion</string>
+    <string name="txtViewRespuesta"></string>
+
+
+
+</resources>
